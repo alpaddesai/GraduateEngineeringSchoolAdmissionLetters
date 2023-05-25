@@ -4,6 +4,8 @@
 
 ![image](EngineeringManagement.jpg)
 
+![image](NEUEngMgmt.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
