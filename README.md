@@ -4,4 +4,4 @@
 
 ![image](EthicsandExcellence.png)
 
-![image](USCopyrightCertificate.jpg)
+![image](USCopyrightCertificate.png)
